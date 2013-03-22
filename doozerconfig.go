@@ -3,7 +3,7 @@ package doozerconfig
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/ActiveState/doozer"
+	"github.com/ha/doozer"
 	"path/filepath"
 	"reflect"
 	"strings"

@@ -5,7 +5,7 @@ package doozerconfig
 
 import (
 	_ "fmt"
-	"github.com/ActiveState/doozer"
+	"github.com/ha/doozer"
 	"testing"
 	"time"
 )
